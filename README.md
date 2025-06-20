@@ -52,10 +52,10 @@ No. of Items 📦
 Average Sales 📊
 Rating ⭐
 Item Visibility 👁️
-https://github.com/vipin2004-v/Blinkit_Sales_Dashboard/blob/main/Screenshot%202025-06-20%20220935.png
 
 🎛️ Slicers (Filters) –
 Located in the FILTER PANEL on the left:
 🧭 Outlet Location Type
 📐 Outlet Size
 🛍️ Item Type
+Example: https://github.com/vipin2004-v/Blinkit_Sales_Dashboard/blob/main/Screenshot%202025-06-20%20220935.png
